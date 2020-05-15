@@ -2,9 +2,34 @@
 Weekly/bi-weekly status reports go into this folder
 
 Project Plan Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/project_plan.md
+|Week |Tasks | Goals|
+|---|---|---|
+| Project Plan | Overall week by week plan of milestones | |
+| Week 1 (1st of May)| We don’t want to try and build MySQL using the KubeCF process, so we’re going to shortcut by using an already available solution| Solution for MySQL on s390x| 
+| Week 2  |Build the cf-operator and coredns images on s390x | Solution for cfcontainerization/cf-operator:v4.5.6-0.gffc6f942 and
+cfcontainerization/coredns:0.1.0-1.6.7-bp152.1.2 |
+| Week 3  |Build the quarks-job and capi images on s390x |Solution for cfcontainerization/quarks-job:v0.0.86 and docker.io/cfcontainerization/capi:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-1.91.0 |
+| Week 4  | | |
+| Week 5  | | |
+| Week 6  | | |
+| Week 7  | | |
+| Week 8  | | |
+| Week 9  | | |
+| Week 10 | | |
+| Week 11 | | |
+| Week 12 | | |
+| Week 13 | | |
+| Week 14 | | |
+| Week 15 | | |
+| Week 16 | | |
+| Week 17 | | |
+| Week 18 | | |
+
+
+
 
 Status Report Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/Weekly%20Project%20Status.docx
-
+## Status Report Index
 | Document | Description | Document Name |
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
