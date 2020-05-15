@@ -14,7 +14,7 @@ a better understanding of the problems you encountered during the developmemnt o
 
 ## Project Team
 - Vlad Iovanov - Suse - Mentor
-- Dan Sinkovicz - *University* - Mentee
+- Dan Sinkovicz - University of Northampton, UK - Mentee
 
 ## Deliverables:
 - [X] Project Plan
