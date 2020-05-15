@@ -10,12 +10,10 @@ Project Plan Template: https://github.com/openmainframeproject-internship/resour
 | Week 4  |Build the cf-cli and cf-networking images on s390x |Solution for docker.io/cfcontainerization/cf-cli:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-1.25.0 and docker.io/cfcontainerization/cf-networking:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-2.28.0 |
 | Week 5  |Build the cf-syslog-drain and diego images on s390x |Solution for docker.io/cfcontainerization/cf-syslog-drain:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-10.2.11 and docker.io/cfcontainerization/diego:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-2.44.0 |
 | Week 6  |Build the garden-runc and log-cache images on s390x |Solution for docker.io/cfcontainerization/garden-runc:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-1.19.10 and docker.io/cfcontainerization/log-cache:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-2.6.8 |
-| Week 7  |Build the loggregator-agent and loggregator  images on s390x |Solution for docker.io/cfcontainerization/loggregator-agent:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-5.3.7 and
-docker.io/cfcontainerization/loggregator:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-106.3.8 |
-| Week 8  |Build the nats and routing images on s390x |Solution for docker.io/cfcontainerization/nats:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-33 and
-docker.io/cfcontainerization/routing:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-0.198.0 |
+| Week 7  |Build the loggregator-agent and loggregator  images on s390x |Solution for docker.io/cfcontainerization/loggregator-agent:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-5.3.7 and docker.io/cfcontainerization/loggregator:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-106.3.8 |
+| Week 8  |Build the nats and routing images on s390x |Solution for docker.io/cfcontainerization/nats:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-33 and docker.io/cfcontainerization/routing:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-0.198.0 |
 | Week 9  |Build  the sle15 image on s390x | Solution for docker.io/cfcontainerization/sle15:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-10.93|
-| Week 10 | | |
+| Week 10 |Build the statsd-injector image on s390x |Solution for docker.io/cfcontainerization/statsd-injector:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-1.11.15 |
 | Week 11 | | |
 | Week 12 | | |
 | Week 13 | | |
