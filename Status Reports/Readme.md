@@ -14,9 +14,9 @@ Project Plan Template: https://github.com/openmainframeproject-internship/resour
 | Week 8  |Build the nats and routing images on s390x |Solution for docker.io/cfcontainerization/nats:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-33 and docker.io/cfcontainerization/routing:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-0.198.0 |
 | Week 9  |Build  the sle15 image on s390x | Solution for docker.io/cfcontainerization/sle15:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-10.93|
 | Week 10 |Build the statsd-injector image on s390x |Solution for docker.io/cfcontainerization/statsd-injector:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-1.11.15 |
-| Week 11 | | |
-| Week 12 | | |
-| Week 13 | | |
+| Week 11 |Build the uaa image on s390x |Solution for docker.io/cfcontainerization/uaa:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-74.15.0 |
+| Week 12 |Build the suse-binary-buildpack on s390x |Solution for registry.suse.com/cap-staging/suse-binary-buildpack:SLE_15_SP1-25.1-7.0.0_374.gb8e8e6af-1.0.36.1 |
+| Week 13 |Start testing the builds |See if what we have built can be deployed |
 | Week 14 | | |
 | Week 15 | | |
 | Week 16 | | |
