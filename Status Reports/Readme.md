@@ -4,7 +4,7 @@ Weekly/bi-weekly status reports go into this folder
 Project Plan Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/project_plan.md
 |Week |Tasks | Goals|
 |---|---|---|
-| Week 1 (1st of May)| We don’t want to try and build MySQL using the KubeCF process, so we’re going to shortcut by using an already available solution| Solution for MySQL on s390x| 
+| Week 1 (15th of May)| We don’t want to try and build MySQL using the KubeCF process, so we’re going to shortcut by using an already available solution| Solution for MySQL on s390x| 
 | Week 2  |Build the cf-operator and coredns images on s390x | Solution for cfcontainerization/cf-operator:v4.5.6-0.gffc6f942 and cfcontainerization/coredns:0.1.0-1.6.7-bp152.1.2 |
 | Week 3  |Build the quarks-job and capi images on s390x |Solution for cfcontainerization/quarks-job:v0.0.86 and docker.io/cfcontainerization/capi:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-1.91.0 |
 | Week 4  |Build the cf-cli and cf-networking images on s390x |Solution for docker.io/cfcontainerization/cf-cli:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-1.25.0 and docker.io/cfcontainerization/cf-networking:SLE_15_SP1-23.21-7.0.0_374.gb8e8e6af-2.28.0 |
@@ -21,7 +21,7 @@ Project Plan Template: https://github.com/openmainframeproject-internship/resour
 | Week 15 |Bugfixes and cleanup |Make all the bits ready for a release. |
 | Week 16 |Publish the build |We want this build available to the community, so we get feedback. |
 | Week 17 |Feedback from community (and fixes) |We want to address any bugs.|
-| Week 18 (23rd of September)|Writeup |Everything we have done should be documented so the work can continue and the project stays alive outside of the OMP. |
+| Week 18 (18th of September)|Writeup |Everything we have done should be documented so the work can continue and the project stays alive outside of the OMP. |
 
 
 
