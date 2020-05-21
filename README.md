@@ -17,7 +17,7 @@ a better understanding of the problems you encountered during the developmemnt o
 - Dan Sinkovicz - University of Northampton, UK - Mentee
 
 ## Deliverables:
-- [X] Project Plan
+- [X] **Project Plan**
 - [ ] 1st Stipend Released
 - [ ] Statement of Work
 - [ ] Architecure/High Level Design
