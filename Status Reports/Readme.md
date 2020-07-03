@@ -35,8 +35,8 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Week 2 Status Report | Docker images for cf-operator and diego | Week 2 Status Report |
 | Week 3 Status Report | Docker images for nats, garden-runc, cf-cli and cf-networking | Week 3 Status Report |
 | Week 4 Status Report | Docker images for cf-syslog-drain, capi, log-cache and loggregator | Week 4 Status Report |
-| Week 5 Status Report | | |
-| Week 6 Status Report | | |
+| Week 5 Status Report | Docker images for loggregator-agent, routing, sle15, statsd-injector and uaa | Week 5 Status Report |
+| Week 6 Status Report | See if what we have built can be deployed | Week 6 Status Report |
 | Week 7 Status Report | | |
 | Week 8 Status Report | | |
 | Week 9 Status Report | | |
