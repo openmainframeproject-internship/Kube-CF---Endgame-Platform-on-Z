@@ -20,10 +20,10 @@ a better understanding of the problems you encountered during the developmemnt o
 - [X] **Project Plan**
 - [X] 1st Stipend Released
 - [X] Statement of Work
-- [ ] Architecure/High Level Design
-- [ ] Detailed Design
+- [X] Architecure/High Level Design
+- [X] Detailed Design
 - [ ] 2nd Stipend Released
-- [ ] Mid-term Evaluation (by mentor)
+- [X] Mid-term Evaluation (by mentor)
 - [ ] Code Project (with comments)
 - [ ] Testing
 - [ ] Video Presentation of the Project
