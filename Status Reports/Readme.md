@@ -28,7 +28,7 @@ Project Plan Template: https://github.com/openmainframeproject-internship/resour
 
 Status Report Template: https://github.com/openmainframeproject-internship/resources/blob/master/forms/Weekly%20Project%20Status.docx
 ## Status Report Index
-| Document | Description | Document Name |
+| Document | Description | Document Name (.docx) |
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | Project Plan Kube CF – Endgame Platform on Z |
 | Week 1 Status Report | Add cf-operator-base docker image, update fissile stemcell, update fissile s390x and solution for MariaDB on s390x | Week 1 Status Report | 
@@ -37,10 +37,10 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Week 4 Status Report | Docker images for cf-syslog-drain, capi, log-cache and loggregator | Week 4 Status Report |
 | Week 5 Status Report | Docker images for loggregator-agent, routing, sle15, statsd-injector and uaa | Week 5 Status Report |
 | Week 6 Status Report | See if what we have built can be deployed | Week 6 Status Report |
-| Week 7 Status Report | | |
-| Week 8 Status Report | | |
-| Week 9 Status Report | | |
-| Week 10 Status Report | | |
+| Week 7 Status Report | See if applications work correctly on Z | Week 7 Status Report |
+| Week 8 Status Report | See if applications work correctly on Z, diego cell | Week 8 Status Report |
+| Week 9 Status Report | See if applications work correctly on Z, builds and eirini | Week 9 Status Report |
+| Week 10 Status Report | See if applications work correctly on Z, eirini | Week 10 Status Report |
 | Week 11 Status Report | | |
 | Week 12 Status Report | | |
 | Week 13 Status Report | | |
