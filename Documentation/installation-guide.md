@@ -18,8 +18,7 @@
 * Run `./install-kubecf' in `Kube-CF---Endgame-Platform-on-Z/src/kubecf`
 * Install the CF Command Line Interface: `sudo rpm -i cf-cli-6.50.0-1.5.s390x.rpm` in `Kube-CF---Endgame-Platform-on-Z/src/test`
 * Login: 
-  * get the password by using `kubectl get secret -n kubecf var-cf-admin-password -o yaml`. 
-  * use `cf-login` to login. Email is `admin` and the password is the one from the previous step.
+  * execute ``cf login --skip-ssl-validation -a https://api.148.100.113.139.nip.io -u admin -p `kubectl get secrets -n kubecf -o json var-cf-admin-password | jq -r '.data."password"' | base64 -d``
 * Test: 
   * `cf create-org test-org` - Create a test organization
   * `cf create-space test-space` - Create a test space
