@@ -3,6 +3,7 @@
 * [go](https://golang.org/dl/)
 * docker (`zypper install docker`)
 * [kubernetes](https://github.com/mfriesenegger/docs/blob/master/sles-crio-k8s.md)
+ * after installing kubernetes, make sure the cluster is running on the correct config by running these commands: `sudo cp /etc/kubernetes/admin.conf .kube/config` `sudo chown $USER .kube/config`
 * helm (execute `bash build-helm.sh` in `Kube-CF---Endgame-Platform-on-Z/src/helm`)
 ### Deploying underlying infrastructure
 * Local Path Provisioner: run `./install.sh` in `Kube-CF---Endgame-Platform-on-Z/src/local-path-provisioner`
