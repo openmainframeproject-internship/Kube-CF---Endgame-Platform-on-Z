@@ -10,7 +10,7 @@
 * MySQL:
   * run `./install-mysql` in `Kube-CF---Endgame-Platform-on-Z/src/mysql`
   * open a shell in the running container ``kubectl exec --stdin --tty <mysql-pod-name> -n mysql -- /bin/bash``
-  * login: `mysql --password=password'. 
+  * login: `mysql --password=password`. 
   * create all the necessary databases: ``create database uaa; create database cloud_controller; create database diego; create database `routing-api`; create database network_policy; create database network_connectivity; create database locket; create database credhub;``
   * check the databases have been created: `show databases;`
 * Create the "eirini-fix" resource. This is required to fix an error: run `k create -f eirini-fix.yaml` in `Kube-CF---Endgame-Platform-on-Z/src/`
