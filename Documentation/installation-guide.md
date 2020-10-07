@@ -16,7 +16,7 @@
 * Create the "eirini-fix" resource. This is required to fix an error: run `k create -f eirini-fix.yaml` in `Kube-CF---Endgame-Platform-on-Z/src/`
 * CF-Operator: `./install-operator` in `Kube-CF---Endgame-Platform-on-Z/src/cf-operator`
 ### Deploying, Installing & Testing KubeCF 
-* Run `./install-kubecf' in ``Kube-CF---Endgame-Platform-on-Z/src/kubecf``
+* Run `./install-kubecf` in `Kube-CF---Endgame-Platform-on-Z/src/kubecf`
 * Install the CF Command Line Interface: `sudo rpm -i cf-cli-6.50.0-1.5.s390x.rpm` in `Kube-CF---Endgame-Platform-on-Z/src/test`
 * Login: 
   * execute ``cf login --skip-ssl-validation -a <your-cluster-ip> -u admin -p `kubectl get secrets -n kubecf -o json var-cf-admin-password | jq -r '.data."password"' | base64 -d``
